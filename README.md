@@ -23,7 +23,7 @@
 
 🎓 **Fun fact:** I'm currently enrolled at WGU and working to complete my BS in Data Analytics.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tycerch&theme=vue-dark&hide_border=true&background=0D1117&stroke=4472C4&ring=70AD47&fire=70AD47)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tycerch&theme=vue-dark&hide_border=true&background=0D1117&stroke=4472C4&ring=70AD47&fire=70AD47)
 
 📫 **Connect with me**
 
